@@ -1,0 +1,11 @@
+pip install streamlit pandas matplotlib pyodbc
+
+pip install sqlalchemy pyodbc
+
+pip install plotly
+
+pip install seaborn
+
+Run app with streamlit : 
+
+streamlit run APP.py
